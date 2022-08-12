@@ -39,7 +39,10 @@ Two additional queries
 
 <img width="617" alt="dec_st_pr_tm" src="https://user-images.githubusercontent.com/107155888/184414649-d02e0b6a-40de-4747-a3d5-b03d47191488.png">
 
+### June average Precipitition.
 <img width="227" alt="june_describe" src="https://user-images.githubusercontent.com/107155888/184456232-50525200-4cbb-41f5-904b-d0ad0bc97fed.png">
+
+### December average Precipitition.
 <img width="282" alt="dec_describe" src="https://user-images.githubusercontent.com/107155888/184456237-c11f08b2-4aab-415d-a0a1-9fc76219f56f.png">
 
 
